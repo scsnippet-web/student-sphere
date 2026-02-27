@@ -1,6 +1,6 @@
 StudentSphere
 
-Overview
+Overview:
 StudentSphere is a unified platform designed to simplify how students manage academics and daily activities. It integrates performance tracking, document management, and productivity tools into a single, structured system.
 
  
@@ -12,8 +12,8 @@ Features
 * Goal setting with progress monitoring
 * Central dashboard for a quick overview of all activities
 
-Objective
+Objective:
 To provide students with a reliable and efficient system for organizing academic data and managing day-to-day responsibilities in one place.
 
-Tech Stack
+Tech Stack:
 React • Django REST Framework • MySQL • Cloud Storage
